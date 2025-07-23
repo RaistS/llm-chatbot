@@ -1,6 +1,6 @@
 # LLM Urgencias
 
-Chat semántico sobre tus documentos (PDF, DOCX, TXT) usando embeddings y Ollama.
+Chat semántico sobre los documentos (PDF, DOCX, TXT) usando embeddings y Ollama.
 
 ## Requisitos
 
